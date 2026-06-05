@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-> Replace `USERNAME_GITHUB` with your GitHub username.
+> Replace `azize-corbinnn` with your GitHub username.
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight"/>
