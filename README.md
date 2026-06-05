@@ -35,8 +35,8 @@
 > Replace `azize-corbinnn` with your GitHub username.
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=azize-corbinnn&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azize-corbinnn&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=azize-corbinnn&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=azize-corbinnn&theme=tokyonight" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight" />
+![Visitor Count](https://komarev.com/ghpvc/?username=azize-corbinnn&color=blue)
 </p>
 
 ---
